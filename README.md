@@ -1,2 +1,2 @@
 # Quantum-Racer
-@D racing game
+2D racing game
